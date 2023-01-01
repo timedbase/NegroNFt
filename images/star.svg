@@ -1,0 +1,11 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72" width="72" height="72">
+	<title>star-01-svg</title>
+	<defs>
+		<image  width="72" height="72" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABIAQMAAABvIyEEAAAAAXNSR0IB2cksfwAAAAZQTFRFAAAAdB/19hJxTgAAAAJ0Uk5TAP9bkSK1AAAAqElEQVR4nH2SOw7CMBBEHbmgTEuXiyC4Gc7RfBSOkDIF8mDsWcYQ462etJrZr3M5zs6iR5ch3YeEEU1YD+QRSaeGHqQZG2nBfqAbnqSAZMUAKwEW8ZkijUHrOdNGE9AmZEomrWJfKFJQJaFQsuQ7vZB2B4uGlJ1Ia+PSOKtaVX93VXz2n+41kabU5NpGsyFtTZvUnkW6gm4k6t1yfP3uv1w/NP66vx/7AtvdxrjmGnDGAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		.s0 { fill: #545c78 } 
+	</style>
+	<path id="Layer" class="s0" d="m36 0l2.4 7.5c3.9 12.5 13.6 22.2 26.1 26.1l7.5 2.4-7 2.1c-12.7 3.8-22.8 13.8-26.7 26.5l-2.3 7.4-2.1-7c-3.8-12.9-14-23.1-26.9-26.9l-7-2.1 7.5-2.4c12.5-3.9 22.2-13.6 26.1-26.1z"/>
+	<use id="طبقة 1" href="#img1" x="0" y="0"/>
+</svg>
